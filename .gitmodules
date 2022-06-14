@@ -1,0 +1,3 @@
+[submodule "themes/bl0b"]
+	path = themes/bl0b
+	url = https://github.com/sharadcodes/hugo-theme-serial-programmer.git
