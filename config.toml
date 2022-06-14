@@ -1,4 +1,4 @@
 baseURL = 'https://octopus-app-3eyip.ondigitalocean.app/'
 languageCode = 'en-us'
-title = 'bl0b'
+title = 'My New Hugo Site'
 theme = ["bl0b"]
